@@ -8,7 +8,7 @@ All About Me
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-I study B.Com (Accounting & Taxation) and I’m learning data analysis tools like Excel, SQL, Power BI, and even Python. I share my practice projects here as I grow towards a career in finance and analytics.
+I'm B.Com (Accounting & Taxation) Undergraduate and I’m learning data analysis tools like Excel, SQL, Power BI, and even Python. I share my practice projects here as I grow towards a career in finance and analytics.
 
 
 **Talking about Personal Stuffs:**
