@@ -15,6 +15,6 @@ I study B.Com (Accounting & Taxation) and I’m learning data analysis tools lik
 
 - I’m B.Com (Accounting & Taxation) Undergraduate;
 - I’m learning data analysis tools like Excel, SQL, Power BI, and even Python;
-- I share my practice projects here as I grow towards a career in finance and analytics;
+- I share my practice projects here as I grow towards a career in finance and analytics
 
 
