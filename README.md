@@ -13,7 +13,7 @@ I'm a B.Com (Accounting & Taxation) undergraduate, and I’m learning data analy
 **Talking about Personal Stuffs:**
 
 * I’m B.Com (Accounting & Taxation) Undergraduate;
-* I'm interested in Accounts, Finance & analytics.
-* I’m learning data analysis tools like Excel, SQL, Power BI, and even Python;
+* I'm learning Accounts, Finance & analytics;
+* Exploring Excel, SQL, Power BI, and Python;
 * Building projects to improve my knowledge
 
